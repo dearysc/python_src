@@ -1,5 +1,6 @@
 #!/usr/bin/python
 from functools import partial,wraps
+import sys,os
 
 
 def decorate_new(auth='required'):

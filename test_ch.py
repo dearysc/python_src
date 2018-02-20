@@ -6,3 +6,4 @@
 
 print u'中文测试'
 print 'scottyuan'
+print 'juliehwang'

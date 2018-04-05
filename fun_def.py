@@ -1,6 +1,7 @@
 #!/usr/bin/python
 from functools import partial,wraps
 import sys,os
+import MySQLPython
 
 
 def decorate_new(auth='required'):
